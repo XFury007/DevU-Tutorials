@@ -17,13 +17,7 @@
             {
                 Console.WriteLine(myValue);
             }
-
-
-
-
-            
-            
-            Console.ReadLine(); 
+             Console.ReadLine(); 
         }
     }
 }
